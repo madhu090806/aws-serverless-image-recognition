@@ -9,7 +9,7 @@
 	"dependencies": {
 		"aws-appsync": "^4.1.9",
 		"graphql": "^16.6.0",
-		"graphql-tag": "^2.12.6",
+		"graphql-tag": "^2.12.7",
 		"isomorphic-fetch": "^3.0.0"
 	}
 }
